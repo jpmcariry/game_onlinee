@@ -12,7 +12,7 @@ kivy-deps.gstreamer==0.1.17
 kivy-deps.sdl2==0.1.22
 Kivy-Garden==0.1.4
 Pillow==6.2.1
-Pygments==2.4.2
+Pygments==2.7.4
 pypiwin32==223
 pywin32==226
 pywin32-ctypes==0.2.0
