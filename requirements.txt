@@ -14,7 +14,7 @@ Kivy-Garden==0.1.4
 Pillow==6.2.1
 Pygments==2.4.2
 pypiwin32==223
-pywin32==226
+pywin32==301
 pywin32-ctypes==0.2.0
 requests==2.22.0
 urllib3==1.25.7
